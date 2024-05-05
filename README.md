@@ -2,7 +2,7 @@
 This project demonstrates how to implement an Intrusion Detection System (IDS) using Adversarial Machine Learning (AML). The goal is to explore and evaluate the impact of adversarial attacks on network traffic data using various machine learning techniques.
 
 # Requirements
-Python 3.x
+Python 3.9
 Jupyter Notebook
 
 # The two types of adversarial attacks used in the project are:
